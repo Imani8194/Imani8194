@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Janelle Imani Wright
 
-<!--
-**Imani8194/Imani8194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a detail-oriented and analytical professional who values integrity, accountability, and continuous learning. 
+My interest in Cybersecurity stems from a passion for understanding how systems work and protecting vulnerable people from digital threats. 
+I excel at identifying vulnerabilities, managing risk, and designing source solutions that help organizations strengthen resilience and uphold trust in an ever-changing threat landscape.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Areas of Focus
+- Network Security & Threat Detection
+- Vulnerability Assessment & Risk Management
+- Incident Response & Digital Forensics
+- Secure System Design & Governance
